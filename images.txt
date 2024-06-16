@@ -1,1 +1,2 @@
 balenalib/jetson-agx-orin-devkit-ubuntu
+python:alpine3.19
